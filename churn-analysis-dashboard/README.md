@@ -25,6 +25,9 @@ at face value.
 ## Tools & Methods
 Tableau (calculated fields, binning, cross-tabulation), confound
 analysis via segmented comparison.
+# Dashboard
+<img width="862" height="754" alt="Screenshot 2026-08-12 at 2 47 50 PM" src="https://github.com/user-attachments/assets/54162ff3-9bdc-4675-8009-a89dbbc32cfb" />
+
 
 
 
