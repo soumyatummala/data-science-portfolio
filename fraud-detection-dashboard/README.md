@@ -39,4 +39,5 @@ imbalance, and the risk of drawing conclusions from small sample sizes.
 Tableau (calculated fields, binning, axis scaling for skewed data).
 
 ## Dashboard
-![dashboard screenshot](screenshots/fraud_dashboard.png)
+<img width="666" height="672" alt="Screenshot 2026-08-12 at 2 50 19 PM" src="https://github.com/user-attachments/assets/44dc1313-fb69-42f5-97c4-b3e6b24f7def" />
+
